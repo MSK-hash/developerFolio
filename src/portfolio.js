@@ -33,10 +33,8 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/MSK-hash",
   linkedin: "https://www.linkedin.com/in/",
   gmail: "saikiranmamidalams@gmail.com",
-  gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/i.MS.Kiran",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
